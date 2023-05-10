@@ -1,0 +1,1 @@
+print('Ciao, Abry è colorato')
